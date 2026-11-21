@@ -8,3 +8,6 @@ __pycache__/
 *.zip
 /hidden
 /delivery
+*.jpg
+submission/handover/lab250_99edeeeb1619_v2.sha256
+submission/handover/lab250_99edeeeb1619_v2/label_summary.csv
